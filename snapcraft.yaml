@@ -12,7 +12,7 @@ title: Mupen64plus
 
 apps:
   muppen64plus:
-    command: muppen64plus
+    command: mupen64plus
 parts:
   muppen64plus:
     # See 'snapcraft plugins'
